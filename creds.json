@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "finviz-import",
+  "private_key_id": "30cc891400776bbc7943697df7e5aad38907db46",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvoDCrFc6C+Kod\nYjd2pKYe4Gvyf+YvcRrENciWiaTQb81sjuE6v6eJbIzNF3urdnCDFDnWgEBUj6TY\nrKMgACQRD7oG1nofR3qZFjCFeEAc0zhbwdNAV9+nWpvuUiBT/S2aNQFVi3vj70qy\nBP/ix3U1IMUglYR0qRRZDWhx3N/ybDWTw0dwE57wJDpDbBdtBzfFTlyJLCdGB+Xc\n2joyzGy3ySASnZXU+WeSg4ndIG2vPzhbh66jZh9GOZBSxpiEFIcX6XCmnGM+PeYc\n2Ne7OYMcNWHegDxuSuftIeTiunMUB0F8vZeG9sXaqsJyDu9n9BspZ+s6vAEr8pSa\n+wFd6K3JAgMBAAECggEAB1VQguxLrbNVYxm1SCpy10o2p68IfQWjgPrf7806iQuK\nD9TdebcD91yFepDW9J9i7k47ZgX/6af/0Z5Px2fKGb5G3b855TF2YIsJJqGRR8LY\nERjESeUBbTr+1NIwEGG7dDtvXVOQLkHRJCLKTn1WmwvNv2EO4VIoC9nf+RUocrZZ\nG8aOoZ8GwTqt7hl0vXm8wtvGjXcfEdUwAXuu4KBZb7qMpuBCorsqehl0176DDRxp\nNOLw7YQCADt78dmzZTX6E+TJhbkNNsHIdCh54elmR2DkUbwBhuQ5OA008BkxGIGj\nC4A0Lao1H4csOlpppr5gtbbvFJzYF34o2+/8zatiAwKBgQDzfvPRspyignUkLPr8\n1CaQnyzbja4pwezr5D6Y4NrTN/pOssn07QZTh3hOi6HsQeqYKtennNIQNSTFaR4N\nMJcmZoe8RhAPbSZqHrvnS3wHXy/D8HKviELANmjCg4mUeCDr+cLLvnbsDQYwDb3Y\nGOS3gzOGsK8pxIH8/vEhk3yvgwKBgQC4pQChFXsRLDR5UXuMvBnuJQE8wwSzAfP7\nK9sR+OjYx1QLYeSbVzMAF5X41QoOBX5RxG+uq+8s1wjlK0Urxd3k/CQQGiUNz/gs\nDz1ByfFix/+EhOs9Y/lFM/5ovWI+8nVqCHPVSnOFogVTVi1ysVTyub5CD8mDUVal\nWjGQTh9/wwKBgHOxl2HEjv38JHKK2Lp2hthieSrcl6sJlGvEqCV1eSOwzkLEWocA\nc+gOTxBq8gXSkAe7G3ptXbYLuiv+NSQpOTgqsUW4uHrL7tuvPLK6P/U0ufpMbgGP\nKcAwWfhKDX240lOs+WxbVB/2VEFS1iguM8YqFbpiiue6kdTGwYWlkTHHAoGBAKEF\n/Gt+MSoDs+tM3QMZkz90dATKSdHWVTBoyY591IogIrIed9/khqyA5R/woekib0vd\nlEvu0xD2omJAfv0yfFVSchy8wC2wfUvnKlOySdkMc0/dHs0V32+zbR1oc0JT7YM/\nxcxvNhmG9z/6+n14Go3m3/36iJEFoRtocarYBm5DAoGAYcM9FQUEAHuQcGd8KLU3\nlD+QFWjZ1LMmkGUE780EO4IOR6DdRbxtDUrYktaWiTt0mDBE4zlQyp6XdNnsJeRR\nH/Guov1g5DBS/UBxDiBwlbLFtHpQQKKdNDQeR6rR1q78/4QQ9ufHgFols6WNzYix\nE+zEXBnhLBLsYFCzgJ/ukmQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "finviz@finviz-import.iam.gserviceaccount.com",
+  "client_id": "111532881363948341734",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finviz%40finviz-import.iam.gserviceaccount.com"
+}
